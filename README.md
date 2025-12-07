@@ -2,7 +2,7 @@ Reconhecimento Facial com Cadastro Biométrico (OpenCV + LBPH)
 
 Sistema de **reconhecimento facial em tempo real** com **fluxo completo de cadastro biométrico**, captura automática de imagens via webcam, **pré-processamento**, **treinamento com 1 clique** e ajuste de threshold por interface gráfica.
 
-Este projeto foi desenvolvido em **Python** usando **OpenCV + LBPH** e **Tkinter**, com foco educacional e de portfólio, simulando uma experiência próxima de soluções reais de onboarding biométrico.
+Este projeto foi desenvolvido em **Python** usando **OpenCV + LBPH** e **Tkinter**, com foco em aplicação de reconhecimento facial de alunos em uma UNIVERSIDADE, simulando uma experiência próxima de soluções reais de onboarding biométrico.
 
 ---
 
