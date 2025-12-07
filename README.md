@@ -1,4 +1,4 @@
-content = """# Reconhecimento Facial com Cadastro Biométrico (OpenCV + LBPH)
+Reconhecimento Facial com Cadastro Biométrico (OpenCV + LBPH)
 
 Sistema de **reconhecimento facial em tempo real** com **fluxo completo de cadastro biométrico**, captura automática de imagens via webcam, **pré-processamento**, **treinamento com 1 clique** e ajuste de threshold por interface gráfica.
 
